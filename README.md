@@ -23,7 +23,7 @@ Describir la relación entre corriente y voltaje en un circuito RL en serie.
 
 ### 2. MARCO TEÓRICO
 
-**2.1 Capítulo 15:  CIRCUITOS RLC Y RESONANCIA**
+**2.1 Capítulo 17:  CIRCUITOS RLC Y RESONANCIA**
 
 ![image](https://user-images.githubusercontent.com/116696484/221665716-9d4b6fdf-c234-494b-8e58-a4aa759b0f33.png)
 
@@ -36,7 +36,7 @@ Describir la relación entre corriente y voltaje en un circuito RL en serie.
 ![image](https://user-images.githubusercontent.com/116696484/221665983-fb4436fb-1c6b-4e39-ae30-fc611492a463.png)
 
 
-**2.2 Capítulo 16: FILTROS PASIVOS**
+**2.2 Capítulo 18: FILTROS PASIVOS**
 
 ![image](https://user-images.githubusercontent.com/116696484/221666118-ecbbfbcb-c4e3-40d8-9197-6a5f89afc046.png)
 
@@ -53,205 +53,58 @@ Describir la relación entre corriente y voltaje en un circuito RL en serie.
 
 ### 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS 
 
-**Capítulo 15:  Circuitos RC**
+**3.1 Capítulo 17:  CIRCUITOS RLC Y RESONANCIA**
 
-***2. Localice los siguientes números en el plano complejo:***
+![image](https://user-images.githubusercontent.com/116696484/221667417-9cb1281c-d682-47b2-bcc0-cb58874ad878.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218820067-f32b4479-a738-4e34-8d2f-c1805243938f.png)
+![image](https://user-images.githubusercontent.com/116696484/221667455-381759a9-ade2-489f-9f81-14ff9e1ac39b.png)
 
-***4. Determine las coordenadas de cada punto que tenga igual magnitud pero esté localizado a 180° de cada uno de los puntos del problema 3.***
+![image](https://user-images.githubusercontent.com/116696484/221667521-af6fd25b-a7e2-4687-b0a7-41f26ff92182.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218820164-7c8d4f18-0394-4a09-8195-0a63b5212e3a.png)
+![image](https://user-images.githubusercontent.com/116696484/221667562-38218be5-fe35-40fc-9317-4e6b86cba4be.png)
 
-***6. A continuación se describen puntos localizados en el plano complejo. Exprese cada punto como un número complejo en forma rectangular:***
+![image](https://user-images.githubusercontent.com/116696484/221667603-a4000968-e3a2-47b2-9da9-0f3ae204ab20.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218820318-a99088fb-cecc-47b4-90f1-f8f2a46614d2.png)
+![image](https://user-images.githubusercontent.com/116696484/221667655-52ab4127-2429-4963-9590-7a8b5c49a8e6.png)
 
-***8. Convierta cada uno de los siguientes números rectangulares a forma polar:***
+![image](https://user-images.githubusercontent.com/116696484/221667686-bae321bb-1d66-490a-9481-78e2eef38243.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218820446-eec7a71c-433b-461d-94f4-935270637ef8.png)
+![image](https://user-images.githubusercontent.com/116696484/221667739-953c21a2-c7b0-4a4c-80c2-4f618ae1e1c0.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218820468-498037e6-6af5-4fa4-842f-046a5c526ff1.png)
+![image](https://user-images.githubusercontent.com/116696484/221667798-0cc684f6-01d6-4c66-b221-fc0325b796eb.png)
 
+![image](https://user-images.githubusercontent.com/116696484/221667847-4a791374-319d-42c5-9c57-aac716dba9fc.png)
 
-***10. Exprese cada uno de los siguientes números polares utilizando un ángulo negativo para reemplazar al positivo.***
+![image](https://user-images.githubusercontent.com/116696484/221667896-f1a5927a-5dc1-47bd-9df1-9a9d06a768ff.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218820555-8f78c726-f037-4ce1-92cb-f4692840c630.png)
 
-***12. Identifique el cuadrante en el cual se localiza cada uno de los puntos del problema 10.***
+**3.2 Capítulo 18: FILTROS PASIVOS**
 
-El problema se encuentra en el primer cuadrante
+![image](https://user-images.githubusercontent.com/116696484/221668130-aef998a2-86a3-4f6d-adae-96abd4ec18a0.png)
 
-***14. Sume los siguientes conjuntos de números complejos:***
+![image](https://user-images.githubusercontent.com/116696484/221668170-71ae1dd4-084c-4687-aeca-ca625b8646f5.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218820686-c981d800-02d5-451b-8c69-fd19ad0640ae.png)
+![image](https://user-images.githubusercontent.com/116696484/221668232-5a95f856-ac11-450c-bb22-35bb88c950cc.png)
 
-***16. Multiplique los siguientes números:***
+![image](https://user-images.githubusercontent.com/116696484/221668267-e77aea94-c05d-427f-93fd-f4e26142c18c.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218820805-bc305e31-fa97-461e-9ec7-a04e05262ed4.png)
+![image](https://user-images.githubusercontent.com/116696484/221668324-308b1f6f-cb74-4f52-bb7d-da6cddd5b45f.png)
 
-***18. Realice las siguientes operaciones:***
+![image](https://user-images.githubusercontent.com/116696484/221668394-12a3f732-18ae-4847-aef0-7bbbb6871787.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218820866-eb971a8d-4572-4111-9a90-e5df83cf0fba.png)
+![image](https://user-images.githubusercontent.com/116696484/221668439-d78f979a-4ee3-44a3-8f11-51c6e2df0722.png)
 
-***20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?***
+![image](https://user-images.githubusercontent.com/116696484/221668574-26aacf1f-a365-4e71-97c9-8fb2c5859ebc.png)
 
-La corriente es sinusoidal
+![image](https://user-images.githubusercontent.com/116696484/221668637-f648f785-d273-4165-a36a-1df5b3ab4d86.png)
 
-***22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.***
+![image](https://user-images.githubusercontent.com/116696484/221668665-56244371-33e2-4454-a833-03ef85c0d75b.png)
 
-![image](https://user-images.githubusercontent.com/116696484/216703080-b5c38c96-a64a-4bd2-bb27-6d30949bfdd5.png)
+![image](https://user-images.githubusercontent.com/116696484/221668792-7b2e1d7b-f757-4db1-8d64-a8ad9f769a6f.png)
 
-***24. Repita el problema 23 con C = 0.0047 µF.***
+![image](https://user-images.githubusercontent.com/116696484/221668847-9f0351e2-6500-441e-8400-dbd24b38aa1c.png)
 
-![image](https://user-images.githubusercontent.com/116696484/218866478-3c951b8a-624c-4691-bad9-8127755e0afc.png)
-
-***26. Exprese la corriente en forma polar para cada circuito de la figura 15-84.***
-
-![image](https://user-images.githubusercontent.com/116696484/218866577-a5a7a7ce-d0db-4325-a274-79848a14f8f6.png)
-
-***28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.***
-
-![image](https://user-images.githubusercontent.com/116696484/218866662-875e024a-8685-48fd-86a9-0feec5c07e42.png)D
-
-![image](https://user-images.githubusercontent.com/116696484/218866688-78df9196-bf8c-45ee-93ec-0349cd0a940c.png)
-
-
-***30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase***
-
-![image](https://user-images.githubusercontent.com/116696484/218866782-a1f865d8-1142-430e-b2ff-a923cd29b321.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218866814-09ad77d1-29ae-4be8-a38d-916c5e639457.png)
-
-
-***32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?***
-
-![image](https://user-images.githubusercontent.com/116696484/218866886-40c362d7-4d60-4ff2-8291-58ccde215cc9.png)
-
-***34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencias:***
-
-![image](https://user-images.githubusercontent.com/116696484/218867007-976c9048-5982-41f0-a777-6239dbaf5eb2.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218867056-5008afea-523d-464f-8dca-1387e9eacd76.png)
-
-***38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz con Vs = 1 V rms***
-
-![image](https://user-images.githubusercontent.com/116696484/218867149-61db2d53-0e9f-4d44-bacf-659b2df3e2e7.png)
-
-***40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.***
-
-![image](https://user-images.githubusercontent.com/116696484/218867235-5ec735bb-0312-4fcd-b812-d9ffb365ac21.png)
-
-
-**2.2 Capítulo 16: Cicuitos RL**
-
-***1. Se aplica un voltaje sinusoidal de 15 kHz a un circuito RL en serie. ¿Cuál es la frecuencia de I, VR y VL?***
-
-La frecuencia es de 15kHz
-
-
-***3. Exprese la impedancia total de cada circuito de la figura 16-54 tanto en forma polar como rectangular.***
-
-![image](https://user-images.githubusercontent.com/116696484/218867652-ca27b99a-df64-46d2-8d07-3bb0d0f446b9.png)
-
-***5. En la figura 16-56, determine la impedancia para cada una de las siguientes frecuencias:***
-
-![image](https://user-images.githubusercontent.com/116696484/218867735-6da9097d-7341-4d66-add0-8aca2ac391ed.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218867794-f39c4878-00cc-4334-b42b-d1e41acdc880.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218867837-d2042cca-97b1-436b-af11-4effe6a8b036.png)
-
-
-***7. Reduzca el circuito de la figura 16-57 a una sola resistencia e inductancia en serie.***
-
-![image](https://user-images.githubusercontent.com/116696484/218867948-3a5cf269-1938-4c8b-9959-56bf2818409f.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218867973-fe48b532-389f-45b4-999e-84ffcb19182d.png)
-
-
-***9. Con el mismo voltaje aplicado en el problema 8, determine el voltaje a través de L3 para el circuito de la figura 16-57.***
-
-![image](https://user-images.githubusercontent.com/116696484/218868103-eae56f3b-9f32-4046-a24c-3284a44847b8.png)
-
-***11. Calcule la corriente total en cada circuito de la figura 16-55 y exprésela en forma polar.***
-
-![image](https://user-images.githubusercontent.com/116696484/218868245-a23adcfd-c398-4d83-a4d3-75becf4776aa.png)
-
-
-***13. Si se duplica la inductancia que aparece en la figura 16-58, ¿en cuántos grados aumenta o disminuye θ?***
-
-![image](https://user-images.githubusercontent.com/116696484/218868317-24e99d8d-1a8c-49e5-bf54-20aa54fef735.png)
-
-***15. Para el circuito de la figura 16-59, encuentre VR y VL para cada una de las siguientes frecuencias:***
-
-![image](https://user-images.githubusercontent.com/116696484/218868422-a848da2c-d9b9-4410-b5bf-f5098f4f986b.png)
-
-***17. Para el circuito de retraso de la figura 16-61, determine el retraso de fase del voltaje de salida con respecto a la entrada a las siguientes frecuencias:***
-
-![image](https://user-images.githubusercontent.com/116696484/218868513-da5665c8-aee6-43c9-a3f2-0fbb32078d95.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218868541-8ce33168-f257-4114-8d48-799f09ee0a3c.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218868565-9064ff49-3abe-43f1-a2fa-409bb340463e.png)
-
-***19. ¿Cuál es la impedancia expresada en forma polar para el circuito de la figura 16-63?***
-
-![image](https://user-images.githubusercontent.com/116696484/218868635-f260899d-10ae-4915-8061-ca3169984434.png)
-
-
-***21. ¿A qué frecuencia XL es igual a R en la figura 16-63?***
-
-![image](https://user-images.githubusercontent.com/116696484/218868736-cb05e78b-36fd-4b67-9c95-325648a15434.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218868759-7a32876c-e2de-4b9b-8f4e-f86215259d9f.png)
-
-
-***23. Determine las siguientes cantidades en la figura 16-65:***
-
-![image](https://user-images.githubusercontent.com/116696484/218868833-c8d7a117-2d22-4977-b2d0-87b38bd04245.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218868893-e4396fac-de74-4d05-905e-2a586c1a9b53.png)
-
-
-***25. Convierta el circuito mostrado en la figura 16-66 en uno equivalente en serie.***
-
-![image](https://user-images.githubusercontent.com/116696484/218868965-76c98815-886a-49fd-bb14-51efd3111bec.png)
-
-
-***27. Determine los voltajes en forma polar a través de cada uno de los elementos de la figura 16-68. Trace el diagrama fasorial de voltaje***
-
-![image](https://user-images.githubusercontent.com/116696484/218869062-5c4b50ad-446f-414f-8d7a-4c095fb5587f.png)
-
-***29. Determine la corriente en cada rama y la corriente total en la figura 16-68. Expréselas en forma polar. Trace el diagrama fasorial de la corriente.***
-
-![image](https://user-images.githubusercontent.com/116696484/218869128-c0ce6c7e-995d-4d93-9bd4-a1b092c92cb6.png)
-
-***33. Determine el desplazamiento de fase y la atenuación (relación de Vsal a Vent) desde la entrada hasta la salida en el circuito de la figura 16-71.***
-
-![image](https://user-images.githubusercontent.com/116696484/218869227-d284deb7-47e1-45da-ae9b-5eba8451c1e4.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218869264-1fe8bbc5-fe2a-4ca5-91b6-cfcf02ed7a9e.png)
-
-***35. Diseñe un circuito conmutador inductivo ideal que suministre un voltaje momentáneo de 2.5 kV con una fuente de 12 V de cd cuando un interruptor es cambiado instantáneamente de una posición a otra. El consumo de corriente de la fuente no debe exceder de 1 A***
-
-![image](https://user-images.githubusercontent.com/116696484/218869345-f55b7a71-de25-44a2-976c-e591f6276ea0.png)
-
-***37. Determine la potencia verdadera y la potencia reactiva en la figura 16-58.***
-
-![image](https://user-images.githubusercontent.com/116696484/218869459-1e56142f-97a3-4e84-b6f3-000fbf1d4d41.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218869496-6524407b-bb65-4eb9-b265-c67f1765981e.png)
-
-***39. Determine P, Q, S y FP para el circuito de la figura 16-69. Trace el triángulo de potencia.***
-
-![image](https://user-images.githubusercontent.com/116696484/218869591-c93397e5-11cc-44ef-b79b-002d590ccebc.png)
-
-![image](https://user-images.githubusercontent.com/116696484/218869627-683ea6ac-cb50-409b-9d11-053a1fc8797a.png)
-
-***41. Trace la curva de respuesta para el circuito de la figura 16-61. Muestre el voltaje de salida contra la frecuencia en incrementos de 1 kHz desde 0 Hz hasta 5 kHz.***
-
-![image](https://user-images.githubusercontent.com/116696484/218869845-b2e24048-3d60-485d-91cc-234d933094fb.png)
+![image](https://user-images.githubusercontent.com/116696484/221668937-ee760631-80d8-4c2a-9e7a-29244ce23ae9.png)
 
 
 ### 4. VIDEO
