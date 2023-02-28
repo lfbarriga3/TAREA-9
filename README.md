@@ -4,22 +4,24 @@
 
 **1.1 Objetivo General**
 
-Entender como funcionan los circuitos RL y RC tanto en serie como paralelo, de tal manera que nos sea posible utilizar esos conocimientos para poder determinar, basado en mediciones de parámetros, el tipo de circuito filtrado que está encápsulado en módulos sellados y sus valores de componentes.
+Ampliar los métodos de análisis aprendidos en los capítulos 15 y 16 hacia la cobertura de circuitos con combinaciones de componentes resistivos, inductivos y capacitivos. Se estudian los circuitos RLC en serie y en paralelo, además de las combinaciones en serie-paralelo.
 
+Aprender que los filtros pasivos pueden clasificarse en cuatro categorías generales de acuerdo
+con sus características de respuesta: pasabajas, pasaaltas, pasabanda y rechazabanda. Dentro de cada categoría, existen varios tipos comunes que serán examinados.
 
 **1.2 Objetivos Específicos**
 
-Reconocer el sistema de los números complejos y la manera en la cual se estructura.
-
-Determinar impedancia y admitancia en un circuito RL y RC en serie y paralelo.
-
-Estudiar la potencia en circuitos RL y RC.
-
-Describir aplicaciones básicas en las cuales estén presentes circuitos RL y RC.
-
-Analizar circuitos RL en paralelo.
-
-Describir la relación entre corriente y voltaje en un circuito RL en serie.
+ Analizar la operación de filtros pasabajas RC y RL
+ 
+ Determinar la impedancia de un circuito RLC en serie y paralelo
+ 
+ Analizar la operación de filtros pasaaltas RC y RL
+ 
+ Analizar la operación de filtros pasabanda
+ 
+ Determinar el ancho de banda de los circuitos resonantes
+ 
+ Analizar la operación de filtros rechazabanda
 
 ### 2. MARCO TEÓRICO
 
@@ -113,15 +115,18 @@ https://youtu.be/a4WBoS3dhAE
 
 ### 5. CONCLUSIONES 
 
-A lo largo del presente informe se estudiaron circuitos RL dispuestos en serie y en paralelo. Los análisis de circuitos RL y RC son similares. La diferencia principal es que las respuestas de fase son opuestas: la reactancia inductiva se incrementa con la frecuencia, en tanto que la
-reactancia capacitiva disminuye con la frecuencia. Un circuito RL contiene tanto resistencia como inductancia. En este informe, se presentan los circuitos RL básicos en serie y en paralelo y sus respuestas a voltajes sinusoidales de ca. Se analizan combinaciones en serie-paralelo. Se introducen las potencias real, reactiva y aparente en circuitos RL y algunas aplicaciones básicas de éstos. Las aplicaciones de circuitos RL incluyen filtros y reguladores de conmutación.
+A lo largo del presente informe se aprendió que la resonancia es la base de la selectividad de
+frecuencia en sistemas de comunicaciones. Por ejemplo, la capacidad de un receptor de radio o de televisión para seleccionar cierta frecuencia transmitida por una estación particular y, al mismo tiempo, eliminar las frecuencias de otras estaciones está basada en el principio de resonancia. En estecapítulo se abordan las condiciones que producen resonancia en circuitos RLC y las características de los circuitos resonantes.
  
-Adicionalmente se estudió que un circuito RC contiene tanto resistencia como capacitancia. En este capítulo, se presentan circuitos RC en serie y en paralelo básicos, así como sus respuestas a voltajes sinusoidales de ca. También se analizan combinaciones dispuestas en serie-paralelo. Se estudian las potencias verdadera, reactiva y aparente en circuitos RC y se introducen algunas aplicaciones básicas de circuitos RC. Las aplicaciones de circuitos RC incluyen filtros, acoplamiento de amplificadores, osciladores, y circuitos modificadores de ondas
+Adicionalmente se estudió que los filtros pasivos utilizan varias combinaciones de resistores, capacitores e inductores 
 
 ### 6. BIBLIOGRAFÍA 
 
 Floyd, T. L. (2007). Principios de circuitos eléctricos (8a ed). Pearson Educación.
 
-Omar, M. M. G., & Luis, L. V. J. Análisis De Circuitos Eléctricos 1-EL96-201201.
+Josebachuili, M., & Zurita, P. Circuitos RLC forzados en serie y paralelo.
 
-Ruíz Vázquez, T., Fraile, J., Nilsson, J. W., & Riedel, S. (2004). Análisis básico de circuitos eléctricos y electrónicos. Universitario, 78.
+Laboratorio de Física, I. I. Circuitos RC y RLC.
+
+Lage, D. I. A. Departamento de Electrónica y Automática.
+
